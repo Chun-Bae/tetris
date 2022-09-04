@@ -1,2 +1,4 @@
-﻿  abc.c
+﻿  tetris.c
+C:\Users\82109\Desktop\ProgrammingSource\C++Source\Project1\Project1\tetris.c(52,18): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82109\Desktop\ProgrammingSource\C++Source\Project1\Project1\tetris.c(174,14): warning C4244: '함수': 'double'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
   Project1.vcxproj -> C:\Users\82109\Desktop\ProgrammingSource\C++Source\Project1\Debug\Project1.exe

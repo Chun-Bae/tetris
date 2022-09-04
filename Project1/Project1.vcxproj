@@ -139,7 +139,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="abc.c" />
+    <ClCompile Include="tetris.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="form.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
